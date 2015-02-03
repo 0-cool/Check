@@ -1,0 +1,29 @@
+body{
+	padding: 0%;
+	margin: 0%;
+	background: -webkit-radial-gradient(ellipse cover,#40FF00,#3ADF00,#5FB404) no-repeat;
+	background: -o-radial-gradient(ellipse cover,#40FF00,#3ADF00,#5FB404) no-repeat;
+	background: -moz-radial-gradient(ellipse cover,#40FF00,#3ADF00,#5FB404) no-repeat;
+	height:700px;
+	font-family: helvetica;
+	font-size: 17px;
+}
+#logo:hover{
+	box-shadow: black 0px 0px 20px;
+}
+#menu_item img{
+	opacity: 0.5;
+}
+#menu_item img:hover{
+	opacity: 1;
+}
+.row .span3{
+	background-color: white;
+	padding: 1%;
+	border-radius: 10px;
+	box-shadow: black 0px 0px 20px;
+}
+#lista_izquierda li{
+	margin-bottom: 15px;
+	list-style: none;	
+}
